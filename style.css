@@ -126,6 +126,9 @@ body {
 
 /* Media Query */
 @media only screen and (max-device-width: 480px) {
+  #title {
+    margin-top: 100px;
+  }
   .container {
     display: flex;
     align-items: center;
