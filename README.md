@@ -4,7 +4,6 @@ Focusing on the breath is particularly helpful because it serves as an anchor. U
 ## Live
 [**Click here**](https://mel0013.github.io/Breathing-Meditation-App/) to start your breathing meditation.
 
-## Tools
-* CSS
-* HTML
-* Javascript
+## Objectives
+* CSS - create breathing circle gradient and animate small circle pointer
+* Javascript - breathing animation effect (grow and shrink)
